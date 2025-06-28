@@ -39,12 +39,14 @@ g++ client.cpp -o client -lws2_32
 
 ### Run the Server
 
-```./server.exe
+```bash
+./server.exe
 ```
 
 ### Run the client(in seperate terminal use mingw terminal in case of errors
 
-```./client.exe
+```bash
+./client.exe
 ```
 
 The code is working
